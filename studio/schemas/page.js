@@ -51,6 +51,13 @@ export default {
             "validation": null
         },
         {
+            "type": "SEO_Tontine",
+            "name": "SEO_Tontine",
+            "title": "Tontine-SEO",
+            "description": "The title of the page",
+            "options": {collapsible : true}
+        },
+        {
             "type": "string",
             "name": "stackbit_model_type",
             "title": "Stackbit Model Type",
