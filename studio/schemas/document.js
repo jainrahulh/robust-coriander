@@ -7,7 +7,7 @@ export default {
         title: 'SEO',
         type: 'seo-tools', // use seo-tools type
         options: {
-            baseUrl: 'https://.../', // (REQUIRED) This is the baseUrl for your site
+            baseUrl: 'https://robust-coriander-767b4.netlify.app/', // (REQUIRED) This is the baseUrl for your site
             baseUrl(doc) {
                 return 'https://.../'; // for dynamic baseUrls
             },
