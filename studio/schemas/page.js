@@ -51,7 +51,7 @@ export default {
             "validation": null
         },
         {
-            "type": "SEO_Tontine",
+            "type": "document",
             "name": "SEO_Tontine",
             "title": "Tontine-SEO",
             "description": "The title of the page",
