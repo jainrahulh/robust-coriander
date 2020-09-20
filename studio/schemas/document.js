@@ -29,5 +29,10 @@ export default {
             },
             contentSelector: 'body' // (OPTIONAL) option to finetune where Yoast will look for the content. (only applicable for scraping without content function)
         },
-    }]
+    }],
+    "preview": {
+        "select": {
+            "title": "title"
+        }
+    }
 }
