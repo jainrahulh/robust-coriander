@@ -1,8 +1,9 @@
 export default {
     type: 'document',
-    name: 'SEO_Tontine',
+    name: 'tontineseo',
     title: 'Tontine-SEO',
-    fields: [{
+    fields: [
+        {
         name: 'seo',
         title: 'SEO',
         type: 'seo-tools', // use seo-tools type
