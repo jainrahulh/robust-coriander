@@ -73,7 +73,8 @@ export default {
                     return 'https://.../'; // for dynamic baseUrls
                 },
                 slug(doc) { // (REQUIRED) a function to return the sug of the current page, which will be appended to the baseUrl
-                    return doc.slug.current;
+                    //return doc.slug.current;
+                    return "";
                 },
                 fetchRemote: true, // Can be set to false to disable fetching the remote source (you will need to pass the content helpers for analysis)
                 content(doc) {
